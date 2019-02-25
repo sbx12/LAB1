@@ -2,4 +2,4 @@
 Week 1 Lab Exercises
 
 
-<img src='Lab1.gif' title='Lab 1' width='' alt='Lab 1' />
+<img src='app/Lab1.gif' title='Lab 1' width='' alt='Lab 1' />
