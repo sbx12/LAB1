@@ -22,12 +22,6 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        nameemail = findViewById(R.id.Name_Email);
-        password = findViewById(R.id.Password);
-        reg1 = findViewById(R.id.reg1);
-        reg2 = findViewById(R.id.textView2);
-        reg3 = findViewById(R.id.reg3);
-        icon = findViewById(R.id.facebookicon);
-        btn = findViewById(R.id.Submit);
+
     }
 }
